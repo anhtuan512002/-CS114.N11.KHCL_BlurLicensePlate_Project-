@@ -12,7 +12,7 @@
 * __Năm học:__ Học kỳ 1 (2022-2023)
 * __Giảng viên:__ Phạm Nguyễn Trường An - <truonganpn@uit.edu.vn>
 
-# [THÔNG TIN VỀ CÁC THÀNH VIÊN NHÓM](#top)
+# THÔNG TIN VỀ CÁC THÀNH VIÊN NHÓM
 | STT    | MSSV          | Họ và Tên                |Vai trò    | Github                                          | Email                   |
 | :----: |:-------------:| :-----------------------:|:---------:|:-----------------------------------------------:|:-------------------------:
 | 1      | 20521925      | Trần Duy Thanh           |Trưởng nhóm|https://github.com/Thanhalone0106                |20521925@gm.uit.edu.vn   |
